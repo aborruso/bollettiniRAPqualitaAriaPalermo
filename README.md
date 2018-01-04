@@ -110,7 +110,7 @@ http://www.rapspa.it/temp/index_file/bollettini_qa/bollettino_20170104.pdf
 ```
 Questa viene passato a `xargs` che passerà il valore di ogni riga a `wget`, che è un'_utility_ che fa il download di dati via web. `xargs` fa "di mestiere" proprio questo: passa una lista di argomenti (qui l'elenco di URL) a un'altra _utility_.
 
-Non resta che aprire la shell, incollare il codice di sopra, dare invio e aspettare che termini il download.
+Non resta che aprire la shell, incollare il codice di sopra, dare invio e aspettare che termini il download (**li ho archiviati**, sino a quello del 1 gennaio 2018, [qui](https://github.com/aborruso/bollettiniRAPqualitaAriaPalermo/tree/master/bollettini)).
 
 ![](./images/dowloadPDF.gif)
 
