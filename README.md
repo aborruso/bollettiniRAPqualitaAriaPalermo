@@ -123,7 +123,7 @@ Lo script di sopra richiede:
 
 Ci sono ovviamente e soprattutto dei **requisiti di conoscenza**:
 
-- basi di **bash**, [https://learnxinyminutes.com/docs/it-it/bash-it/];
+- basi di **bash**, [https://learnxinyminutes.com/docs/it-it/bash-it/](https://learnxinyminutes.com/docs/it-it/bash-it/);
 - basi di **CSS selector**, [https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Selectors);
 - basi **espressioni regolari**, [https://github.com/zeeshanu/learn-regex/blob/master/README.md](https://github.com/zeeshanu/learn-regex/blob/master/README.md);
 - e basi di HTML e CSS.
